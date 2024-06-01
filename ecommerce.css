@@ -640,3 +640,13 @@ footer{
     color: black;
     border-bottom: 2px solid #262626;
 }
+
+@media only screen and (max-width: 399px){
+    body {
+        width: 482%;
+    }
+    .nav1{
+        gap: 167px;
+        justify-content: flex-start;
+    }
+}
