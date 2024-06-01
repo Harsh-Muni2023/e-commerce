@@ -649,4 +649,16 @@ footer{
         gap: 167px;
         justify-content: flex-start;
     }
+    .name2 h1{
+        width: 14ch;
+    }
+    .logos::after,.logos::before{
+        display: none;
+    }
+    .items button {
+        left: 144%;
+        top: 309vh;
+        font-size: 17px;
+        width: 32ch;
+    }
 }
